@@ -1,0 +1,17 @@
+{
+  "name": "adapt-contrib-blank",
+  "version": "10.0.0",
+  "framework": ">=5.19.1",
+  "homepage": "https://github.com/wtechsas/adapt-contrib-blank",
+  "bugs": "https://github.com/wtechsas/adapt-contrib-blank/issues",
+  "component" : "blank",
+  "targetAttribute": "_blank",
+  "displayName" : "Espacio en blanco",
+  "description": "El propósito del componente en blanco es mantener un área en blanco entre otros componentes visibles.",
+  "main": "/js/adapt-contrib-blank.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
